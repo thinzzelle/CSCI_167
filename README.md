@@ -1,1 +1,1 @@
-These files are for Intro do Deep Learning
+These files are for Intro to Deep Learning
